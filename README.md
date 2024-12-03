@@ -21,5 +21,6 @@
 <hr>
 
 <strong>HOW TO USE</strong>
-<p>Most of the repos can be run on Replit (<a href="replit.com/@7ames">click here</a>).  
-All repos can be run without any bash.</p>
+
+Most of the repos can be run on Replit ([click here](replit.com/@7ames)).  
+All repos can be run without any bash.
