@@ -1,7 +1,11 @@
 <h1>Hi I'm James</h1>
 
-<p>Follow me on Replit: <a href="https://replit.com/@7ames/" style="border: solid 1px lightgrey; border-radius: 5px;">@7ames</a></p>
-<p>Follow me in GitHub: <a href="https://github.com/7aimez/" style="border: solid 1px lightgrey; border-radius: 5px;">7aimez</a></p>
+| Follow me on Replit: [7ames](https://replit.com/@7ames/) |
+| -------------------------------------------------------------|
+
+| Follow me in GitHub: [7aimez](https://github.com/7aimez/) |
+| -------------------------------------------------------------|
+
 
 <strong>I work on small projects, games and web proxies.</strong>
 
