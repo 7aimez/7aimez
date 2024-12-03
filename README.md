@@ -11,7 +11,7 @@
 
 <h2>Bio</h2>
 
-<p>Hello, i'm James. I like to code! I esspecially like coding in JS.</p>
+<p>Hello, I'm James. I like to code! I esspecially like coding in JS.</p>
 
 <h2>Usage</h2>
 
