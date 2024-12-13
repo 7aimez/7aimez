@@ -18,8 +18,7 @@ I'm a passionate web developer with a particular love for coding in JavaScript. 
 
 <h2>Usage</h2>
 
-<strong>IMPORTANT!</strong>
-<p>All of the products that you will find in this account should not be used for anything ilegal, discriminative, any form of hacking, cyber-attacking or anything that is clearly innapropriate.</p>
+Projects
 
 <hr>
 
