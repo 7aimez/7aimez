@@ -7,7 +7,7 @@
 | -------------------------------------------------------------|
 
 
-<strong>I work on small projects, games and web proxies.</strong>
+<strong>I work on small projects, games and useful tools.</strong>
 
 <h2>Bio</h2>
 
