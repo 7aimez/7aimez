@@ -24,5 +24,5 @@ Projects
 
 <strong>HOW TO USE</strong>
 
-Most of the repos can be run on Replit ([click here](replit.com/@7ames)).  
+Most of the repos can be run on Replit ([click here](https://replit.com/@7ames/)).  
 All repos can be run without any bash.
