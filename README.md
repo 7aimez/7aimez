@@ -20,7 +20,6 @@ I'm a passionate web developer with a particular love for coding in JavaScript. 
 
 
 
-<hr>
 
 <strong>HOW TO USE</strong>
 
