@@ -18,7 +18,7 @@ I'm a passionate web developer with a particular love for coding in JavaScript. 
 
 <h2>Usage</h2>
 
-Projects
+
 
 <hr>
 
