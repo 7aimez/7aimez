@@ -21,7 +21,7 @@ I'm a passionate web developer with a particular love for coding in JavaScript. 
 Follow both:
 <li>@7aimez</li>
 <li>@GGsuii99</li>
-  
+<br>
 
 
 <strong>HOW TO USE</strong>
