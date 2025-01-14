@@ -16,9 +16,11 @@
 I'm a passionate web developer with a particular love for coding in JavaScript. I enjoy building small front-end projects that allow me to experiment with new technologies and improve my skills. Whether it's creating interactive web pages, designing intuitive user interfaces, or solving problems with clean, efficient code, I’m always excited to dive into the world of front-end development. I'm always exploring new tools and frameworks, and I take pride in delivering polished, user-friendly experiences.
 **Enjoy using them!**
 
-<h2>Usage</h2>
+<h2>Who to follow</h2>
 
-
+Follow both:
+<li>@7aimez</li>
+<li>@GGsuii99</li>
 
 
 <strong>HOW TO USE</strong>
