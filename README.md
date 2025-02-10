@@ -23,8 +23,12 @@ Follow both:
 <li>@GGsuii99</li>
 <br>
 
+<h2>My Stats</h2>
 
-<strong>HOW TO USE</strong>
+![7aimez's GitHub stats](https://github-readme-stats.vercel.app/api?username=7aimez&show_icons=true&theme=radical)
+
+
+<h2>HOW TO USE</h2>
 
 Most of the repos can be run on Replit ([click here](https://replit.com/@7ames/)).  
 All repos can be run without any bash.
