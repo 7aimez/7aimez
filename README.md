@@ -1,34 +1,21 @@
-<h1>Hi I'm James</h1>
+# Hi there, I'm 7aimez 👋
 
-| Follow me on Replit: [7ames](https://replit.com/@7ames/) |
-| -------------------------------------------------------------|
+I'm a passionate software engineer who loves building things for the web and exploring new technologies.
 
-| Follow me in GitHub: [7aimez](https://github.com/7aimez/) |
-| -------------------------------------------------------------|
+## 👨‍💻 Tech Stack
 
+- **Web:** HTML, CSS, JS
+- **Programming Languages:** Python, Java, JavaScript
 
-<strong>I work on small projects, games and useful tools.</strong>
+## 🚀 What I Like
 
-<h2>Bio</h2>
+- Creating interactive and dynamic web applications
+- Solving problems with Python and Java
+- Learning new frameworks and tools
+- Collaborating on open source projects
 
-<p>Hello, I'm James. I like to code! I esspecially like coding in JavaScript.</p>
-
-I'm a passionate web developer with a particular love for coding in JavaScript. I enjoy building small front-end projects that allow me to experiment with new technologies and improve my skills. Whether it's creating interactive web pages, designing intuitive user interfaces, or solving problems with clean, efficient code, I’m always excited to dive into the world of front-end development. I'm always exploring new tools and frameworks, and I take pride in delivering polished, user-friendly experiences.
-**Enjoy using them!**
-
-<h2>Who to follow</h2>
-
-Follow both:
-<li>@7aimez</li>
-<li>@GGsuii99</li>
-<br>
-
-<h2>My Stats</h2>
+## 📈 GitHub Stats
 
 ![7aimez's GitHub stats](https://github-readme-stats.vercel.app/api?username=7aimez&show_icons=true&theme=radical)
 
-
-<h2>HOW TO USE</h2>
-
-Most of the repos can be run on Replit ([click here](https://replit.com/@7ames/)).  
-All repos can be run without any bash.
+_Always learning, always building!_
