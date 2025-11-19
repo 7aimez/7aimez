@@ -3,5 +3,5 @@
 ---
 
 <p align="center">
-  <b><a href="https://james-davies.onrender.com">james-davies.onrender.com</a></b>
+  <b><a href="https://james-davies.pages.dev">james-davies.pages.dev</a></b>
 </p>
