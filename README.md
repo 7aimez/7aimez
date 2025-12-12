@@ -3,5 +3,7 @@
 ---
 
 <p align="center">
-  <b><a href="https://7ames.is-a.dev">7ames.is-a.dev</a></b>
+  <a href="https://7ames.is-a.dev">
+    <img src="https://img.shields.io/badge/7ames.is--a.dev-gray?style=for-the-badge" />
+  </a>
 </p>
