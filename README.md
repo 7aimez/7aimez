@@ -5,6 +5,6 @@
 <div align="center">
   <a href="https://7ames.is-a.dev"><img src="https://img.shields.io/badge/7ames.is--a.dev-gray?style=for-the-badge" /></a>
   <img src="https://img.shields.io/badge/status-coding-lightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/7aimez?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/7aimez?style=for-the-badge&color=blue" />
   <img src="https://img.shields.io/github/stars/7aimez?style=for-the-badge&color=orange" />
 </div>
