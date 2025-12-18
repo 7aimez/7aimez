@@ -29,8 +29,8 @@
     <a href="https://github.com/swipetable/swipetable"><img src="https://img.shields.io/badge/5-swipetable-brown?style=for-the-badge" /></a>
     <a href="https://github.com/useorbix/orbix"><img src="https://img.shields.io/badge/6-orbix-lightgreen?style=for-the-badge" /></a>
     <br />
-    <a href="https://github.com/valtify/valtify"><img src="https://img.shields.io/badge/7-valtify-blue?style=for-the-badge" /></a>
-    <a href="https://github.com/flying-potato/v1"><img src="https://img.shields.io/badge/8-flying--potato-pink?style=for-the-badge" /></a>
+    <a href="https://github.com/valtify/valtify-app"><img src="https://img.shields.io/badge/7-valtify-blue?style=for-the-badge" /></a>
+    <a href="https://github.com/flying-potato-js/v1"><img src="https://img.shields.io/badge/8-flying--potato-pink?style=for-the-badge" /></a>
     <br />
     <a href="https://github.com/7aimez/UpLo"><img src="https://img.shields.io/badge/9-UpLo-lightblue?style=for-the-badge" /></a>
     <a href="https://github.com/7aimez/mood.lite"><img src="https://img.shields.io/badge/10-mood.lite-magenta?style=for-the-badge" /></a>
