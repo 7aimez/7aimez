@@ -11,6 +11,7 @@
   <div>
     <img src="https://img.shields.io/badge/favourite_language-js-purple?style=for-the-badge&logo=javascript" />
     <img src="https://img.shields.io/badge/favourite_colour-orange-orange?style=for-the-badge" />
+    <br />
     <img src="https://img.shields.io/badge/favourite_cheese-compté-lightgreen?style=for-the-badge" />
     <img src="https://img.shields.io/badge/best_number-3-brown?style=for-the-badge" />
   </div>
@@ -21,6 +22,12 @@
   <div>
     <a href="https://github.com/nenode/nenode"><img src="https://img.shields.io/badge/1-nenode-lightblue?style=for-the-badge" /></a>
     <a href="https://github.com/7aimez/turtle_string"><img src="https://img.shields.io/badge/2-turtle__string-red?style=for-the-badge" /></a>
+    <br />
+    <a href="https://github.com/llinqu/llinqu"><img src="https://img.shields.io/badge/3-llinqu-yellow?style=for-the-badge" /></a>
+    <a href="https://github.com/cvc-ftc/CVC-FTC.github.io"><img src="https://img.shields.io/badge/4-cvc--ftc_website-yellow?style=for-the-badge" /></a>
+    <br />
+    <a href="https://github.com/llinqu/llinqu"><img src="https://img.shields.io/badge/3-llinqu-yellow?style=for-the-badge" /></a>
+    <a href="https://github.com/cvc-ftc/CVC-FTC.github.io"><img src="https://img.shields.io/badge/4-cvc--ftc_website-yellow?style=for-the-badge" /></a>
   </div>
   
   <br />
