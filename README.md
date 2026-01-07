@@ -18,25 +18,6 @@
   
   <br />
 
-  <h3>Top 10 Projects</h3>
-  <div>
-    <a href="https://github.com/nenode/nenode"><img src="https://img.shields.io/badge/1-nenode-lightblue?style=for-the-badge" /></a>
-    <a href="https://github.com/7aimez/turtle_string"><img src="https://img.shields.io/badge/2-turtle__string-red?style=for-the-badge" /></a>
-    <br />
-    <a href="https://github.com/llinqu/llinqu"><img src="https://img.shields.io/badge/3-llinqu-yellow?style=for-the-badge" /></a>
-    <a href="https://github.com/cvc-ftc/CVC-FTC.github.io"><img src="https://img.shields.io/badge/4-cvc--ftc_website-green?style=for-the-badge" /></a>
-    <br />
-    <a href="https://github.com/swipetable/swipetable"><img src="https://img.shields.io/badge/5-swipetable-brown?style=for-the-badge" /></a>
-    <a href="https://github.com/useorbix/orbix"><img src="https://img.shields.io/badge/6-orbix-lightgreen?style=for-the-badge" /></a>
-    <br />
-    <a href="https://github.com/valtify/valtify-app"><img src="https://img.shields.io/badge/7-valtify-blue?style=for-the-badge" /></a>
-    <a href="https://github.com/flying-potato-js/v1"><img src="https://img.shields.io/badge/8-flying--potato-pink?style=for-the-badge" /></a>
-    <br />
-    <a href="https://github.com/7aimez/UpLo"><img src="https://img.shields.io/badge/9-UpLo-lightblue?style=for-the-badge" /></a>
-    <a href="https://github.com/7aimez/mood.lite"><img src="https://img.shields.io/badge/10-mood.lite-magenta?style=for-the-badge" /></a>
-  </div>
-  
-  <br />
   
   <h3>Stats</h3>
   <img src="https://img.shields.io/badge/status-coding-lightgreen?style=for-the-badge" />
