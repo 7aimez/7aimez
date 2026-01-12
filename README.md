@@ -6,7 +6,7 @@
   <a href="https://7ames.is-a.dev"><img src="https://img.shields.io/badge/website-7ames.is--a.dev-ebebeb?style=for-the-badge" /></a>
   
   <h2>Stats</h2>
-  <img src="https://img.shields.io/badge/status-coding-lightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/7aimez?style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/7aimez?style=for-the-badge&color=orange" />
+  <a href="#"><img src="https://img.shields.io/badge/status-coding-lightgreen?style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/github/followers/7aimez?style=for-the-badge&color=blue" /></a>
+  <a href="#"><img src="https://img.shields.io/github/stars/7aimez?style=for-the-badge&color=orange" /></a>
 </div>
