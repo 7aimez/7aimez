@@ -1,12 +1,36 @@
-<div align="center"><a href="https://7ames.is-a.dev"><img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/7af458b6-548e-45ec-900d-d503f7476294" /></a></div>
+<img align="right" width="450" src="bubbles.webp">
 
----
 
-<div align="center">
-  <a href="https://7ames.is-a.dev"><img src="https://img.shields.io/badge/website-7ames.is--a.dev-ebebeb?style=for-the-badge" /></a>
-  
-  <h2>Stats</h2>
-  <a href="#"><img src="https://img.shields.io/badge/status-coding-lightgreen?style=for-the-badge" /></a>
-  <a href="#"><img src="https://img.shields.io/github/followers/7aimez?style=for-the-badge&color=blue" /></a>
-  <a href="#"><img src="https://img.shields.io/github/stars/7aimez?style=for-the-badge&color=orange" /></a>
-</div>
+# Hi there, I'm 7ames 👋
+
+Welcome to my GitHub profile! I'm a passionate coder and technology
+enthusiast. Here you'll find a collection of my projects, my skills,
+and more.
+
+
+## Skills
+
+### Programming Languages
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,python,java,cpp)](https://skillicons.dev)
+
+### Tools & Platforms
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,windows,vscode,arduino)](https://skillicons.dev)
+
+
+## Projects
+
+Here are some of my favourite projects:
+
+- [llinqu](https://github.com/llinqu/llinqu): Hyperfast opensource minifier for enterprise
+- [Turtle String](https://github.com/7aimez/turtle-string): Lightweight library of letters in python turtle
+- [Nenode AI](https://github.com/nenode/nenode): Basic intent based AI writting in JS and using brain.js
+
+
+
+## Git Stats
+
+![](https://komarev.com/ghpvc/?username=7aimez&style=for-the-badge&color=green)
+
+**Thanks for visiting my profile!**<br>
