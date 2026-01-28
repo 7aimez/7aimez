@@ -1,4 +1,4 @@
-<img align="right" width="450" src="IMG_4407.webp">
+<img align="right" width="450" src="bubbles.webp">
 
 
 # Hi there, I'm 7ames 👋
