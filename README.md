@@ -24,6 +24,7 @@ and more.
 Here are some of my favourite projects:
 
 - [llinqu](https://github.com/llinqu/llinqu): Hyperfast opensource minifier for enterprise
+- [Arc](https://github.com/arc-assistant): Lightweight, open-source smart assistant
 - [Turtle String](https://github.com/7aimez/turtle-string): Lightweight library of letters in python turtle
 - [Nenode AI](https://github.com/nenode/nenode): Basic intent based AI writting in JS and using brain.js
 - [Team Bob (cvc-ftc) Website](https://github.com/cvc-ftc/cvc-ftc.github.io): Website for the Team Bob (CVC-FTC) robotics team
