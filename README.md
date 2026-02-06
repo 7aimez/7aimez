@@ -1,6 +1,6 @@
 <a href="7ames.is-a.dev"><img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/9a3ca088-95a1-4925-811a-96aa185b7274" /></a>
 
-<br /><br />
+<br />
 
 Welcome to my GitHub profile! I'm a passionate coder and technology
 enthusiast. Here you'll find a collection of my projects, my skills,
