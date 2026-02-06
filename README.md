@@ -11,11 +11,11 @@ and more.
 
 ### Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,python,java,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,python,java,cpp)](#)
 
 ### Tools & Platforms
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,windows,vscode,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,windows,vscode,arduino)](#)
 
 
 ## Projects
