@@ -1,4 +1,4 @@
-<a href="7ames.is-a.dev"><img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/9a3ca088-95a1-4925-811a-96aa185b7274" /></a>
+<a href="https://7ames.is-a.dev"><img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/9a3ca088-95a1-4925-811a-96aa185b7274" /></a>
 
 ---
 
