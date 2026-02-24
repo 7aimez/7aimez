@@ -29,6 +29,10 @@ Here are some of my favourite projects:
 - [Team Bob (cvc-ftc) Website](https://github.com/cvc-ftc/cvc-ftc.github.io): Website for the Team Bob (CVC-FTC) robotics team
 
 
+## YouTube Channel
+
+I also like to make music. Check out [my YouTube channel](https://youtube.com/@7ames-music), and subscribe!
+
 
 ## Git Stats
 
