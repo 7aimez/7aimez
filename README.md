@@ -22,7 +22,7 @@ and more.
 
 Here are some of my favourite projects:
 
-- [kebab-os](https://github.com/kebab-os/kebab-os): High-performance, window-based operating system environment
+- [kebab-os](https://github.com/kebab-os/kebab-gui): High-performance, window-based operating system environment
 - [Arc](https://github.com/arc-assistant): Lightweight, open-source smart assistant
 - [Turtle String](https://github.com/7aimez/turtle-string): Lightweight library of letters in python turtle
 - [Nenode AI](https://github.com/nenode/nenode): Basic intent based AI writting in JS and using brain.js
