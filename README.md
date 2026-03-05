@@ -34,8 +34,8 @@ Here are some of my favourite projects:
 I also like to make music. Check out [my YouTube channel](https://youtube.com/@7ames-music), and subscribe!
 
 
-## Git Stats
+## GitHub Stats
 
-![](https://komarev.com/ghpvc/?username=7aimez&style=for-the-badge&color=green)
+![GitHub Stats](https://komarev.com/ghpvc/?username=7aimez&style=for-the-badge&color=green)
 
 **Thanks for visiting my profile!**<br>
