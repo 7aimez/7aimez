@@ -29,6 +29,8 @@ Here are some of my favourite projects:
 - [Nenode AI](https://github.com/nenode/nenode): Basic intent based AI writting in JS and using brain.js
 - [Team Bob (cvc-ftc) Website](https://github.com/cvc-ftc/cvc-ftc.github.io): Website for the Team Bob (CVC-FTC) robotics team
 
+[View more](projects.md)
+
 
 ## YouTube Channel
 
