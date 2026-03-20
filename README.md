@@ -40,3 +40,10 @@ I also like to make music. Check out [my YouTube channel](https://youtube.com/@7
 ![GitHub Stats](https://komarev.com/ghpvc/?username=7aimez&style=for-the-badge&color=green)
 
 **Thanks for visiting my profile!**<br>
+
+<br /><br /><hr />
+<div>
+  <a href="readme.md"><img src="https://img.shields.io/badge/home-gray?style=for-the-badge" /></a>
+  <a href="projects.md"><img src="https://img.shields.io/badge/projects-gray?style=for-the-badge" /></a>
+  <a href="https://github.com/7aimez?tab=repositories"><img src="https://img.shields.io/badge/repositories-gray?style=for-the-badge" /></a>
+</div>
