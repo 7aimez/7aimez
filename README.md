@@ -47,7 +47,7 @@ I also like to make music. Check out [my YouTube channel](https://youtube.com/@7
 
 <a href="#top"><img src="https://img.shields.io/badge/▲_back_to_top-gray?style=for-the-badge" />
 
-<br /><hr />
+<hr />
 <div>
   <a href="readme.md"><img src="https://img.shields.io/badge/home-gray?style=for-the-badge" /></a>
   <a href="projects.md"><img src="https://img.shields.io/badge/projects-gray?style=for-the-badge" /></a>
