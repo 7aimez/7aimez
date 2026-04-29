@@ -2,8 +2,8 @@
 
 ---
 
-**Welcome to my GitHub profile!** I'm a passionate coder and technology
-enthusiast. Here you'll find a collection of my projects, my skills,
+**Welcome to my GitHub profile!** I'm a passionate **coder** and **technology
+enthusiast**. Here you'll find a collection of my **projects**, my **skills**,
 and more.
 
 
