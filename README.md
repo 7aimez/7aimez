@@ -22,8 +22,8 @@ and more.
 
 Here are some of my favourite projects:
 
-- [kebab-tools](https://github.com/kebab-os/kebab-tools): A robust, endpoint-based, command-line set of developer utilities built for developers
 - [kebab-gui](https://github.com/kebab-os/kebab-gui): High-performance, window-based operating system environment
+- [kebab-tools](https://github.com/kebab-os/kebab-tools): A robust, endpoint-based, command-line set of developer utilities built for developers
 - [Arc](https://github.com/arc-assistant): Lightweight, open-source smart assistant
 - [Turtle String](https://github.com/7aimez/turtle_string): Lightweight library of letters in python turtle
 - [Nenode AI](https://github.com/nenode/nenode): Basic intent based AI writting in JS and using brain.js
