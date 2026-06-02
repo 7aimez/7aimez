@@ -25,6 +25,7 @@ Here are some of my favourite projects:
 - [kebab-gui](https://github.com/kebab-os/kebab-gui): High-performance, window-based operating system environment
 - [Nova Compile](https://github.com/novacompile/compiler): AI compiler that fixes your mistakes, then runs in Python
 - [kebab-tools](https://github.com/kebab-os/kebab-tools): A robust, endpoint-based, command-line set of developer utilities built for developers
+- [Kairox](https://github.com/7aimez/kairox): Simple and lightweight AI interface
 - [Arc](https://github.com/arc-assistant): Lightweight, open-source smart assistant
 - [Turtle String](https://github.com/7aimez/turtle_string): Lightweight library of letters in python turtle
 - [Nenode AI](https://github.com/nenode/nenode): Basic intent based AI writting in JS and using brain.js
