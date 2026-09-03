@@ -15,7 +15,7 @@ and more.
 
 ### Tools & Platforms
 
-[![Tools and Platforms](https://skillicons.dev/icons?i=git,github,windows,vscode,arduino,cloudflare)](#)
+[![Tools and Platforms](https://skillicons.dev/icons?i=git,github,windows,ubuntu,linux,vscode,arduino,cloudflare)](#)
 
 
 ## Projects
